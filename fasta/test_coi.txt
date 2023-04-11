@@ -1,6 +1,5 @@
 AB576759.1 Pseudoterranova azarasi mitochondrial cox1 gene for cytochrome oxidase subunit 1, partial cds, isolate: Pst-2
 AB576758.1 Pseudoterranova azarasi mitochondrial cox1 gene for cytochrome oxidase subunit 1, partial cds, isolate: Pst-1
-MZ310709.1 Ophidascaris baylisi isolate c oxidase subunit I (COX1) gene cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MT338477.1 Contracaecum rudolphii voucher Sgui8_Plate3_H9_CO1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MT338476.1 Contracaecum rudolphii voucher Sgui6_Plate3_F9_CO1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MT338475.1 Contracaecum rudolphii voucher Sgui5_Plate3_E9_CO1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
@@ -94,12 +93,8 @@ AJ891142.1 Pseudoterranova bulbosa mitochondrial partial coi gene for cytochrome
 AJ891141.1 Pseudoterranova bulbosa mitochondrial partial coi gene for cytochrome c oxidase subunit I, isolate Pb6
 AJ891140.1 Pseudoterranova azarasi mitochondrial partial coi gene for cytochrome c oxidase subunit I, isolate Pa2
 AJ891139.1 Pseudoterranova azarasi mitochondrial partial coi gene for cytochrome c oxidase subunit I, isolate Pa1
-OQ509671.1 Raphidascaroides brasiliensis isolate RCBBR_N20 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 OQ509669.1 Anisakis brevispiculata isolate RCBBR_N18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 OQ509668.1 Anisakis brevispiculata isolate RCBBR_N17 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-OP256426.1 Ophidascaris arndti isolate AdultBfonsecai cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-OP256425.1 Ophidascaris arndti isolate 19139LarvaAmontensis cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-OP256424.1 Ophidascaris arndti isolate 19073LarvaAmontensis cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 OP431162.1 Anisakis simplex sensu lato voucher TRP1nem1_18 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 OP431161.1 Anisakis simplex sensu lato voucher SWR1nem1_38 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 OP431160.1 Anisakis simplex sensu lato voucher Petrel2_10_nem1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
@@ -124,20 +119,18 @@ OP431142.1 Anisakis simplex sensu lato voucher BAR1nem1_17 cytochrome c oxidase 
 ON661075.1 Anisakis simplex sensu lato isolate 36_NOS2nem1_14 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 ON661074.1 Anisakis simplex sensu lato isolate 35_MIQ1nem1_10 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 LC712859.1 Pseudoterranova ceticola R2 mitochondrial COX1 gene for cytochrome c oxidase subunit 1, partial cds
-OM867304.1 Ophidascaris filaria isolate S3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-OM867303.1 Ophidascaris filaria isolate S2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-OM867302.1 Ophidascaris filaria isolate S1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960373.1 Ophidascaris filaria isolate HuN-HY11 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960372.1 Ophidascaris filaria isolate HuN-HY10 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960371.1 Ophidascaris filaria isolate HuN-HY9 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960370.1 Ophidascaris filaria isolate HuN-CD8 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960369.1 Ophidascaris filaria isolate HuN-CD7 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960368.1 Ophidascaris filaria isolate HuN-CD6 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960367.1 Ophidascaris filaria isolate HuN-CD5 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960366.1 Ophidascaris filaria isolate HuN-CS4 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960365.1 Ophidascaris filaria isolate HuN-CS3 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960364.1 Ophidascaris filaria isolate HuN-CS2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MZ960363.1 Ophidascaris filaria isolate HuN-CS1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
+OK539799.1 Pseudoterranova decipiens isolate KIPD-146 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539798.1 Pseudoterranova decipiens isolate KIPD-145 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539797.1 Pseudoterranova decipiens isolate KIPD-144 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539796.1 Pseudoterranova decipiens isolate KIPD-143 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539795.1 Pseudoterranova decipiens isolate KIPD-142 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539794.1 Pseudoterranova decipiens isolate KIPD-141 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539793.1 Pseudoterranova decipiens isolate KIPD-140 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539792.1 Pseudoterranova decipiens isolate KIPD-139 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539791.1 Pseudoterranova decipiens isolate KIPD-138 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539790.1 Pseudoterranova decipiens isolate KIPD-137 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539789.1 Pseudoterranova decipiens isolate KIPD-136 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+OK539788.1 Pseudoterranova decipiens isolate KIPD-135 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
 MW546052.1 Pseudoterranova cattani isolate Sample_5885 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MW546051.1 Anisakis pegreffii isolate Sample_5886 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MW546050.1 Pseudoterranova cattani isolate Sample_5887 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
@@ -147,7 +140,6 @@ MW133972.1 Contracaecum eudyptulae isolate LCJ-ZQ cytochrome c oxidase subunit I
 MT941432.1 Pseudoterranova cattani voucher CT-01-024-LM cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MT941431.1 Pseudoterranova cattani voucher MC-150-LM JLU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MT941430.1 Contracaecum ogmorhini voucher MC-140-LM JLU cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MT450841.1 Ophidascaris baylisi isolate NakhonNayok1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MT411010.1 Anisakis simplex voucher imp2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MT411009.1 Anisakis simplex voucher imp1 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
 MT411008.1 Anisakis simplex voucher nat2 cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
@@ -165,47 +157,6 @@ HQ268720.1 Contracaecum osculatum clone CoscI1 cytochrome oxidase subunit I (COI
 HQ268719.1 Anisakis simplex clone AS3 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
 HQ268718.1 Anisakis simplex clone AS2 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
 HQ268717.1 Anisakis simplex clone AS1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MN713882.1 Sulcascaris sulcata isolate 39_Adriatic_larva_Aequipecten_LA cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713881.1 Sulcascaris sulcata isolate 38_Adriatic_larva_Aequipecten_LA cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713880.1 Sulcascaris sulcata isolate 37_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713879.1 Sulcascaris sulcata isolate 36_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713878.1 Sulcascaris sulcata isolate 35_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713877.1 Sulcascaris sulcata isolate 34_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713876.1 Sulcascaris sulcata isolate 33_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713875.1 Sulcascaris sulcata isolate 23_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713874.1 Sulcascaris sulcata isolate 22_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713873.1 Sulcascaris sulcata isolate 32_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713872.1 Sulcascaris sulcata isolate 31_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713871.1 Sulcascaris sulcata isolate 30_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713870.1 Sulcascaris sulcata isolate 29_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713869.1 Sulcascaris sulcata isolate 28_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713868.1 Sulcascaris sulcata isolate 26_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713867.1 Sulcascaris sulcata isolate 25_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713866.1 Sulcascaris sulcata isolate 24_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713865.1 Sulcascaris sulcata isolate 21_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713864.1 Sulcascaris sulcata isolate 20_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713863.1 Sulcascaris sulcata isolate 27_Adriatic_larva_Pecten_LP cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713862.1 Sulcascaris sulcata isolate 7_Adriatic_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713861.1 Sulcascaris sulcata isolate 5_Adriatic_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713860.1 Sulcascaris sulcata isolate 4_Adriatic_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713859.1 Sulcascaris sulcata isolate 3_Adriatic_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713858.1 Sulcascaris sulcata isolate 10_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713857.1 Sulcascaris sulcata isolate 8_Adriatic_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713856.1 Sulcascaris sulcata isolate 2_Adriatic_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713855.1 Sulcascaris sulcata isolate 9_Adriatic_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713854.1 Sulcascaris sulcata isolate 6_Adriatic_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713853.1 Sulcascaris sulcata isolate 1_Adriatic_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713852.1 Sulcascaris sulcata isolate 19_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713851.1 Sulcascaris sulcata isolate 18_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713850.1 Sulcascaris sulcata isolate 17_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713849.1 Sulcascaris sulcata isolate 16_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713848.1 Sulcascaris sulcata isolate 15_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713847.1 Sulcascaris sulcata isolate 14_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713846.1 Sulcascaris sulcata isolate 13_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713845.1 Sulcascaris sulcata isolate 12_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MN713844.1 Sulcascaris sulcata isolate 11_Thyrrenian_Adult_CC cytochrome c oxidase subunit I (COX1) gene, partial cds; mitochondrial
-MK761016.1 Raphidascaroides brasiliensis isolate PAX11 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MK761014.1 Raphidascaroides moraveci isolate BRMS4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
 MK228728.1 Anisakis pegreffii haplotype 21 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
 MK228727.1 Anisakis pegreffii haplotype 20 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
 MK228726.1 Anisakis pegreffii haplotype 19 cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
@@ -238,19 +189,8 @@ MF663246.1 Anisakis typica isolate Atypica-252-SJ-A6-typ1 cytochrome oxidase sub
 MF663245.1 Anisakis typica isolate Atypica-245-BF-A6-typ1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
 MF663244.1 Anisakis typica isolate Atypica-233-BF-A6-typ1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
 MF663197.1 Contracaecum rudolphii isolate Crudolph-19-P-P1A1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MF113245.1 Pulchrascaris chiloscyllii isolate 261-4 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MF113242.1 Raphidascaroides nipponensis isolate Rn25 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-MF113228.1 Pseudanisakis rajae isolate P1 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
 AF096226.2 Anisakis simplex cytochrome c oxidase subunit 1 (COI) gene, partial cds; mitochondrial gene for mitochondrial product
-KY765923.1 Pseudanisakis argentinensis isolate 146 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-KY765922.1 Pseudanisakis argentinensis isolate 147 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-KY765921.1 Pseudanisakis argentinensis isolate 148 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-KY765920.1 Pseudanisakis argentinensis isolate 149 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-KY765919.1 Pseudanisakis argentinensis isolate 150 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-KY765918.1 Pseudanisakis argentinensis isolate 153 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-KY765917.1 Pseudanisakis argentinensis isolate 155 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-KY765916.1 Pseudanisakis argentinensis isolate 156 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
-KY765915.1 Pseudanisakis argentinensis isolate 186 cytochrome oxidase subunit I (COI) gene, partial cds; mitochondrial
+LC312195.1 Pseudoterranova azarasi mitochondrial cox1 gene for cytochrome c oxidase subunit 1, partial cds, isolate: DEXPAT
 JN102304.1 Anisakis simplex isolate TR_A cytochrome c oxidase subunit 1 (COX1) gene, partial cds; mitochondrial
 JF711070.1 Contracaecum osculatum C sensu Nascetti et al. (1993) voucher 27.3 cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
 JF711069.1 Contracaecum osculatum C sensu Nascetti et al. (1993) voucher 105a cytochrome oxidase subunit I (CO1) gene, partial cds; mitochondrial
@@ -377,7 +317,6 @@ AJ405303.1 Contracaecum osculatum mitochondrial partial COI gene for cytochrome 
 AJ405302.1 Contracaecum osculatum mitochondrial partial COI gene for cytochrome c oxidase subunit I, isolate CoA13
 AJ405301.1 Contracaecum osculatum mitochondrial partial COI gene for cytochrome c oxidase subunit I, isolate CoA12
 AJ405300.1 Contracaecum osculatum partial COI gene for mitochondrial cytochrome c oxidase subunit I, isolate CoA2
-MW880927.1 Ophidascaris baylisi mitochondrion, complete genome
 MK820679.1 Anisakis simplex mitochondrion, complete genome
 AP017678.1 Anisakis simplex mitochondrial DNA, complete genome
 NC_031649.1 Contracaecum ogmorhini sensu lato Pacific Canada mitochondrion, complete genome
@@ -398,6 +337,12 @@ KU558721.1 Pseudoterranova cattani mitochondrion, complete genome
 KU558720.1 Pseudoterranova bulbosa mitochondrion, complete genome
 KU899549.1 Anisakis simplex mitochondrion, complete genome
 NC_026023.1 Anisakis simplex C Nascetti et al., 1986 isolate 2c mitochondrion, complete genome
+JN786334.1 Contracaecum osculatum A sensu Nascetti et al. (1993) isolate 27.15 mitochondrion, partial genome
+JN786333.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 25.10 mitochondrion, partial genome
+JN786332.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 116.1 mitochondrion, partial genome
+JN786331.1 Contracaecum osculatum A sensu Nascetti et al. (1993) isolate 27.7 mitochondrion, partial genome
+JN786330.1 Contracaecum osculatum isolate 105a mitochondrion, partial genome
+JN786329.1 Contracaecum osculatum isolate 74a mitochondrion, partial genome
 JN786328.1 Anisakis simplex isolate J4 mitochondrion, complete genome
 JN786327.1 Anisakis simplex isolate J3 mitochondrion, complete genome
 JN786326.1 Anisakis simplex isolate S7 mitochondrion, complete genome
@@ -418,6 +363,7 @@ NC_014870.1 Contracaecum rudolphii B Bullini et al., 1986 mitochondrion, complet
 NC_007934.1 Anisakis simplex mitochondrion, complete genome
 FJ905109.1 Contracaecum rudolphii B Bullini et al., 1986 mitochondrion, complete genome
 DQ489705.1 Anisakis simplex cytochrome c oxidase subunit I gene, partial cds; mitochondrial
+DQ489704.1 Anisakis simplex NADH dehydrogenase subunit 1 gene, partial cds; mitochondrial
 AY994157.1 Anisakis simplex mitochondrion, complete genome
 NC_027163.1 Pseudoterranova azarasi mitochondrion, complete genome
 KR052144.1 Pseudoterranova azarasi mitochondrion, complete genome
