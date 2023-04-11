@@ -1,0 +1,79 @@
+MT912456.1 Pseudoterranova azarasi voucher ZC18_6aj cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912447.1 Pseudoterranova azarasi voucher ZC18_6aa cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912443.1 Pseudoterranova azarasi voucher ZC17_361h cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912442.1 Pseudoterranova azarasi voucher ZC17_361g cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912411.1 Pseudoterranova azarasi voucher ZC17_338r cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912409.1 Pseudoterranova azarasi voucher ZC17_338o cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912400.1 Pseudoterranova azarasi voucher ZC17_338f cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912398.1 Pseudoterranova azarasi voucher ZC17_335g cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912396.1 Pseudoterranova decipiens sensu lato voucher ZC17_192i cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912395.1 Pseudoterranova azarasi voucher ZC17_192h cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912394.1 Pseudoterranova azarasi voucher ZC17_192g cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912393.1 Pseudoterranova azarasi voucher ZC17_192f cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912392.1 Pseudoterranova azarasi voucher ZC17_192e cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912391.1 Pseudoterranova azarasi voucher ZC17_192d cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912390.1 Pseudoterranova azarasi voucher ZC17_192c cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624201.1 Pseudoterranova decipiens sensu lato voucher ZC17_192b cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624200.1 Pseudoterranova azarasi voucher ZC17_192a cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624199.1 Pseudoterranova azarasi voucher ZC17_335d cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624194.1 Pseudoterranova azarasi voucher ZC17_338d cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624191.1 Pseudoterranova azarasi voucher ZC17_338a cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624177.1 Pseudoterranova azarasi voucher ZC18_6f cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624175.1 Pseudoterranova azarasi voucher ZC18_6d cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+DQ116435.1 Pseudoterranova ceticola cytochrome oxidase subunit 2 (cox2) gene, partial cds; mitochondrial
+OP380510.1 Pseudoterranova ceticola voucher DiRa37-3T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380509.1 Pseudoterranova ceticola voucher DiRa22-T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380508.1 Pseudoterranova ceticola voucher DiArg7-1T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380507.1 Pseudoterranova ceticola voucher DiArg14-14T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380506.1 Pseudoterranova ceticola voucher ChaDa53T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380505.1 Pseudoterranova ceticola voucher DiRa38T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380504.1 Pseudoterranova ceticola voucher DiRa36-1T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380503.1 Pseudoterranova ceticola voucher DiRa34-2T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380502.1 Pseudoterranova ceticola voucher DiRa49T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380501.1 Pseudoterranova ceticola voucher DiRa35-2T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380500.1 Pseudoterranova ceticola voucher DiRa29T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380499.1 Pseudoterranova ceticola voucher DiRa34-1T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380498.1 Pseudoterranova ceticola voucher DiRa37T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380497.1 Pseudoterranova ceticola voucher DiArg15-13T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380496.1 Pseudoterranova ceticola voucher DiRa23T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380495.1 Pseudoterranova ceticola voucher DiMo41T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380494.1 Pseudoterranova ceticola voucher DiMo53T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+OP380493.1 Pseudoterranova ceticola voucher Maar1T cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+ON155434.1 Pseudoterranova ceticola voucher SU6V1 cytochrome oxidase subunit 2 (coII) gene, partial cds; mitochondrial
+LC712860.1 Pseudoterranova ceticola R2 mitochondrial COX2 gene for cytochrome c oxidase subunit 2, partial cds
+OK338713.1 Pseudoterranova decipiens isolate C7-DL-P2 cytochrome oxidase subunit II (COX2) gene, partial cds; mitochondrial
+OK338712.1 Pseudoterranova decipiens isolate C7_DL-P1 cytochrome oxidase subunit II (COX2) gene, partial cds; mitochondrial
+OK338708.1 Pseudoterranova decipiens isolate C5-BC2 cytochrome oxidase subunit II (COX2) gene, partial cds; mitochondrial
+OK338699.1 Pseudoterranova decipiens isolate C10-DL2 cytochrome oxidase subunit II (COX2) gene, partial cds; mitochondrial
+OK338698.1 Pseudoterranova decipiens isolate C10-DB cytochrome oxidase subunit II (COX2) gene, partial cds; mitochondrial
+MT347696.1 Pseudoterranova decipiens isolate Pd04 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+MT347695.1 Pseudoterranova decipiens isolate Pd03 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+LC511598.1 Pseudoterranova azarasi AP42-1 mitochondrial COX2 gene for cytochrome oxidase subunit II, partial cds
+MF353899.1 Pseudoterranova cattani voucher Ps2 cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+MF353898.1 Pseudoterranova cattani voucher Ps1 cytochrome oxidase subunit 2 (coxII) gene, partial cds; mitochondrial
+KP402087.1 Pseudoterranova cattani isolate Aa-CRAM2718 cytochrome c oxidase subunit II (COII) gene, partial cds; mitochondrial
+KM853036.1 Pseudoterranova azarasi cytochrome oxidase subunit 2 (COX2) gene, partial cds; mitochondrial
+KF806035.1 Pseudoterranova decipiens cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC782949.1 Pseudoterranova cattani voucher PCA5 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC782948.1 Pseudoterranova cattani voucher PDE2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC782947.1 Pseudoterranova cattani voucher PCA6 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+JX500061.1 Pseudoterranova cattani voucher PCA22 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+JX500060.1 Pseudoterranova cattani voucher PCA8 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+JX500059.1 Pseudoterranova cattani voucher PCA13 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+JX500058.1 Pseudoterranova cattani voucher PCA9 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+HM147282.1 Pseudoterranova decipiens E SM-2010 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+HM147279.1 Pseudoterranova krabbei cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+HM147278.1 Pseudoterranova decipiens cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+HM147281.1 Pseudoterranova azarasi cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+HM147280.1 Pseudoterranova bulbosa cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+NC_031646.1 Pseudoterranova krabbei mitochondrion, complete genome
+NC_031645.1 Pseudoterranova decipiens sensu lato Germany mitochondrion, complete genome
+NC_031644.1 Pseudoterranova cattani mitochondrion, complete genome
+NC_031643.1 Pseudoterranova bulbosa mitochondrion, complete genome
+KU558724.1 Pseudoterranova krabbei mitochondrion, complete genome
+KU558723.1 Pseudoterranova decipiens sensu lato Germany mitochondrion, complete genome
+KU558721.1 Pseudoterranova cattani mitochondrion, complete genome
+KU558720.1 Pseudoterranova bulbosa mitochondrion, complete genome
+NC_027163.1 Pseudoterranova azarasi mitochondrion, complete genome
+KR052144.1 Pseudoterranova azarasi mitochondrion, complete genome
+AF179920.1 Pseudoterranova decipiens cytochrome oxidase subunit 2 (cox-2) gene, partial cds; mitochondrial gene for mitochondrial product

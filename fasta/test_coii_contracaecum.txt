@@ -1,0 +1,271 @@
+MT912468.1 Contracaecum ogmorhini sensu lato voucher ZC18_6t cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912461.1 Contracaecum ogmorhini sensu lato voucher ZC18_6l cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912457.1 Contracaecum ogmorhini sensu lato voucher ZC18_6h cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912449.1 Contracaecum ogmorhini sensu lato voucher ZC18_6ac cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912446.1 Contracaecum ogmorhini sensu lato voucher ZC17_361k cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912445.1 Contracaecum ogmorhini sensu lato voucher ZC17_361j cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912444.1 Contracaecum ogmorhini sensu lato voucher ZC17_361i cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912441.1 Contracaecum ogmorhini sensu lato voucher ZC17_359z cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912440.1 Contracaecum ogmorhini sensu lato voucher ZC17_359v cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912439.1 Contracaecum ogmorhini sensu lato voucher ZC17_359u cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912438.1 Contracaecum ogmorhini sensu lato voucher ZC17_359t cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912437.1 Contracaecum ogmorhini sensu lato voucher ZC17_359s cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912436.1 Contracaecum ogmorhini sensu lato voucher ZC17_359r cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912435.1 Contracaecum ogmorhini sensu lato voucher ZC17_359p cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912434.1 Contracaecum ogmorhini sensu lato voucher ZC17_359o cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912433.1 Contracaecum ogmorhini sensu lato voucher ZC17_359n cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912432.1 Contracaecum ogmorhini sensu lato voucher ZC17_359m cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912431.1 Contracaecum ogmorhini sensu lato voucher ZC17_359l cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912430.1 Contracaecum ogmorhini sensu lato voucher ZC17_359k cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912429.1 Contracaecum ogmorhini sensu lato voucher ZC17_359j cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912428.1 Contracaecum ogmorhini sensu lato voucher ZC17_359i cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912427.1 Contracaecum ogmorhini sensu lato voucher ZC17_359h cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912426.1 Contracaecum ogmorhini sensu lato voucher ZC17_359g cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912425.1 Contracaecum ogmorhini sensu lato voucher ZC17_359f cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912424.1 Contracaecum ogmorhini sensu lato voucher ZC17_359ak cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912423.1 Contracaecum ogmorhini sensu lato voucher ZC17_359aj cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912421.1 Contracaecum ogmorhini sensu lato voucher ZC17_359ag cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912419.1 Contracaecum ogmorhini sensu lato voucher ZC17_359ae cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912418.1 Contracaecum ogmorhini sensu lato voucher ZC17_359ac cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912417.1 Contracaecum ogmorhini sensu lato voucher ZC17_359ab cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912416.1 Contracaecum ogmorhini sensu lato voucher ZC17_359aa cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912415.1 Contracaecum ogmorhini sensu lato voucher ZC17_340c cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912414.1 Contracaecum ogmorhini sensu lato voucher ZC17_340b cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912413.1 Contracaecum ogmorhini sensu lato voucher ZC17_338t cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912410.1 Contracaecum ogmorhini sensu lato voucher ZC17_338p cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912408.1 Contracaecum ogmorhini sensu lato voucher ZC17_338n cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912407.1 Contracaecum ogmorhini sensu lato voucher ZC17_338m cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912406.1 Contracaecum ogmorhini sensu lato voucher ZC17_338l cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912405.1 Contracaecum ogmorhini sensu lato voucher ZC17_338k cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912404.1 Contracaecum ogmorhini sensu lato voucher ZC17_338j cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912403.1 Contracaecum ogmorhini sensu lato voucher ZC17_338i cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912402.1 Contracaecum ogmorhini sensu lato voucher ZC17_338h cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912401.1 Contracaecum ogmorhini sensu lato voucher ZC17_338g cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MT912399.1 Contracaecum ogmorhini sensu lato voucher ZC17_335h cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624198.1 Contracaecum ogmorhini sensu lato voucher ZC17_335c cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624197.1 Contracaecum ogmorhini sensu lato voucher ZC17_335b cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624196.1 Contracaecum ogmorhini sensu lato voucher ZC17_335a cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624195.1 Contracaecum ogmorhini sensu lato voucher ZC17_338e cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624193.1 Contracaecum ogmorhini sensu lato voucher ZC17_338c cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624192.1 Contracaecum ogmorhini sensu lato voucher ZC17_338b cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624190.1 Contracaecum ogmorhini sensu lato voucher ZC17_340 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624189.1 Contracaecum ogmorhini sensu lato voucher ZC17_359e cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624188.1 Contracaecum ogmorhini sensu lato voucher ZC17_359d cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624187.1 Contracaecum ogmorhini sensu lato voucher ZC17_359c cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624186.1 Contracaecum ogmorhini sensu lato voucher ZC17_359b cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624185.1 Contracaecum ogmorhini sensu lato voucher ZC17_359a cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624184.1 Contracaecum ogmorhini sensu lato voucher ZC17_361f cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624183.1 Contracaecum ogmorhini sensu lato voucher ZC17_361e cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624182.1 Contracaecum ogmorhini sensu lato voucher ZC17_361d cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624181.1 Contracaecum ogmorhini sensu lato voucher ZC17_361c cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624180.1 Contracaecum ogmorhini sensu lato voucher ZC17_361b cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MN624179.1 Contracaecum ogmorhini sensu lato voucher ZC17_361a cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+ON854976.1 Contracaecum ogmorhini cytochrome c oxidase subunit II (COII) gene, partial cds; mitochondrial
+OP690540.1 Contracaecum rudolphii A Bullini et al., 1986 isolate CG67 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+OP690539.1 Contracaecum rudolphii A Bullini et al., 1986 isolate CG56 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+OP690538.1 Contracaecum rudolphii A Bullini et al., 1986 isolate CG31 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+OP690537.1 Contracaecum rudolphii A Bullini et al., 1986 isolate CG16 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+OP690536.1 Contracaecum rudolphii A Bullini et al., 1986 isolate CG8 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+OP690535.1 Contracaecum rudolphii A Bullini et al., 1986 isolate CG1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+ON736838.1 Contracaecum aff. multipapillatum E MC-2021 isolate 198/21_4f cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736837.1 Contracaecum gibsoni isolate 38/21_8a cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736836.1 Contracaecum gibsoni isolate 38/21_12f cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736835.1 Contracaecum gibsoni isolate 38/21_10f cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736834.1 Contracaecum gibsoni isolate 139/21_1_153 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736833.1 Contracaecum gibsoni isolate 139/21_1_104 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736832.1 Contracaecum micropapillatum isolate 38/21_8m cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736831.1 Contracaecum micropapillatum isolate 38/21_8I cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736830.1 Contracaecum micropapillatum isolate 38/21_8h cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736829.1 Contracaecum micropapillatum isolate 38/21_8g cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736828.1 Contracaecum micropapillatum isolate 38/21_8f cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736827.1 Contracaecum micropapillatum isolate 38/21_8e cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736826.1 Contracaecum micropapillatum isolate 38/21_8d cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736825.1 Contracaecum micropapillatum isolate 38/21_8c cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736824.1 Contracaecum micropapillatum isolate 38/21_8b cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736823.1 Contracaecum micropapillatum isolate 38/21_7e cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736822.1 Contracaecum micropapillatum isolate 38/21_7d cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736821.1 Contracaecum micropapillatum isolate 38/21_7c cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736820.1 Contracaecum micropapillatum isolate 38/21_7b cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736819.1 Contracaecum micropapillatum isolate 38/21_7a cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736818.1 Contracaecum micropapillatum isolate 198/21_1M cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736817.1 Contracaecum micropapillatum isolate 110/21B_g cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736816.1 Contracaecum micropapillatum isolate 110/21B_f cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736815.1 Contracaecum micropapillatum isolate 110/21B_e cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736814.1 Contracaecum micropapillatum isolate 110/21B_d cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736813.1 Contracaecum micropapillatum isolate 110/21B_c cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736812.1 Contracaecum micropapillatum isolate 110/21B_b cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736811.1 Contracaecum micropapillatum isolate 1/21_8 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736810.1 Contracaecum micropapillatum isolate 1/21_7 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736809.1 Contracaecum micropapillatum isolate 1/21_6 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736808.1 Contracaecum micropapillatum isolate 1/21_1 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736807.1 Contracaecum quadripapillatum isolate 38/21_9 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+ON736806.1 Contracaecum quadripapillatum isolate 110/21B_a cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+MZ579647.1 Contracaecum chubutensis isolate CG3D cytochrome c oxidase subunit II (cox2) gene, partial cds; mitochondrial
+OK338701.1 Contracaecum osculatum isolate C1-2 cytochrome oxidase subunit II (COX2) gene, partial cds; mitochondrial
+OK338700.1 Contracaecum osculatum isolate C1-1 cytochrome oxidase subunit II (COX2) gene, partial cds; mitochondrial
+MT448519.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 192 tRNA-Gly gene, partial sequence; cytochrome c oxidase subunit II (COX2) gene, complete cds; and tRNA-His gene, partial sequence; mitochondrial
+MT448518.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 182 tRNA-Gly gene, partial sequence; cytochrome c oxidase subunit II (COX2) gene, complete cds; and tRNA-His gene, partial sequence; mitochondrial
+MT448517.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 175 tRNA-Gly gene, partial sequence; cytochrome c oxidase subunit II (COX2) gene, complete cds; and tRNA-His gene, partial sequence; mitochondrial
+MT448516.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 171 tRNA-Gly gene, partial sequence; cytochrome c oxidase subunit II (COX2) gene, complete cds; and tRNA-His gene, partial sequence; mitochondrial
+MT448515.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 170 tRNA-Gly gene, partial sequence; cytochrome c oxidase subunit II (COX2) gene, complete cds; and tRNA-His gene, partial sequence; mitochondrial
+MT448514.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 159-2 tRNA-Gly gene, partial sequence; cytochrome c oxidase subunit II (COX2) gene, complete cds; and tRNA-His gene, partial sequence; mitochondrial
+MT448513.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 159-1 tRNA-Gly gene, partial sequence; cytochrome c oxidase subunit II (COX2) gene, complete cds; and tRNA-His gene, partial sequence; mitochondrial
+MT448512.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 153-2 tRNA-Gly gene, partial sequence; cytochrome c oxidase subunit II (COX2) gene, complete cds; and tRNA-His gene, partial sequence; mitochondrial
+MK496487.1 Contracaecum aff. rudolphii B SM-2020 voucher CCTRS7_4 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496486.1 Contracaecum aff. rudolphii B SM-2020 voucher CAV18_1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496485.1 Contracaecum aff. rudolphii B SM-2020 voucher CCTRS7_1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496484.1 Contracaecum aff. rudolphii B SM-2020 voucher CR14_5 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496483.1 Contracaecum aff. rudolphii B SM-2020 voucher CR3_4 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496482.1 Contracaecum aff. rudolphii B SM-2020 voucher CR3_8 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496481.1 Contracaecum aff. rudolphii A SM-2020 voucher FIOR18_6 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496480.1 Contracaecum aff. rudolphii A SM-2020 voucher FIOR17_35 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496479.1 Contracaecum aff. rudolphii A SM-2020 voucher FIOR14_14 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496478.1 Contracaecum aff. rudolphii A SM-2020 voucher CR1_7 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496477.1 Contracaecum aff. rudolphii A SM-2020 voucher CR1_4 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MK496476.1 Contracaecum aff. rudolphii A SM-2020 voucher CR1_3 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF513519.1 Contracaecum microcephalum clone 3 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513518.1 Contracaecum microcephalum clone 2 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513517.1 Contracaecum microcephalum clone 1 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513516.1 Contracaecum micropapillatum clone 3 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513515.1 Contracaecum micropapillatum clone 2 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513514.1 Contracaecum micropapillatum clone 1 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513513.1 Contracaecum septentrionale clone 2 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513512.1 Contracaecum septentrionale clone 1 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513511.1 Contracaecum rudolphii clone 6 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513510.1 Contracaecum rudolphii clone 5 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513509.1 Contracaecum rudolphii clone 4 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513508.1 Contracaecum rudolphii clone 3 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513507.1 Contracaecum rudolphii clone 2 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513506.1 Contracaecum rudolphii clone 1 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513505.1 Contracaecum rudolphii clone 5 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513504.1 Contracaecum rudolphii clone 4 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513503.1 Contracaecum rudolphii clone 3 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513502.1 Contracaecum rudolphii clone 2 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513501.1 Contracaecum rudolphii clone 1 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513500.1 Contracaecum bioccai clone 7 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513499.1 Contracaecum bioccai clone 6 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513498.1 Contracaecum bioccai clone 5 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513497.1 Contracaecum bioccai clone 4 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513496.1 Contracaecum bioccai clone 3 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513495.1 Contracaecum bioccai clone 2 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+EF513494.1 Contracaecum bioccai clone 1 cytochrome oxidase II (COII) gene, partial cds; mitochondrial
+MG012361.1 Contracaecum osculatum strain AyajinKP418 cytochrome oxidase subunit 2 (cox2) gene, partial cds; mitochondrial
+MG012360.1 Contracaecum osculatum strain AyajinKP344 cytochrome oxidase subunit 2 (cox2) gene, partial cds; mitochondrial
+MG012359.1 Contracaecum osculatum strain AyajinKP267 cytochrome oxidase subunit 2 (cox2) gene, partial cds; mitochondrial
+MG012358.1 Contracaecum osculatum strain AyajinKP137 cytochrome oxidase subunit 2 (cox2) gene, partial cds; mitochondrial
+MG012357.1 Contracaecum osculatum strain AyajinKP77 cytochrome oxidase subunit 2 (cox2) gene, partial cds; mitochondrial
+MH044685.1 Contracaecum multipapillatum isolate RD_GTM2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044684.1 Contracaecum multipapillatum isolate RD_GTM1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044683.1 Contracaecum multipapillatum isolate Mar_GTM cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044682.1 Contracaecum multipapillatum isolate EHig_GTM2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044681.1 Contracaecum multipapillatum isolate EHig_GTM1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044680.1 Contracaecum multipapillatum isolate Est_GTM2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044679.1 Contracaecum multipapillatum isolate Est_GTM1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044678.1 Contracaecum multipapillatum isolate CP_GTM cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044677.1 Contracaecum multipapillatum isolate Hig_CRC2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044676.1 Contracaecum multipapillatum isolate Hig_CRC1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044675.1 Contracaecum multipapillatum isolate Can_CRC2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044674.1 Contracaecum multipapillatum isolate Can_CRC1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044673.1 Contracaecum multipapillatum isolate Ab_CRC2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MH044672.1 Contracaecum multipapillatum isolate Ab_CRC1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+MG495095.1 Contracaecum overstreeti isolate GZP-1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KX158866.1 Contracaecum osculatum B sensu Nascetti et al. (1993) voucher COSB16-bs cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KX158865.1 Contracaecum osculatum B sensu Nascetti et al. (1993) voucher COSB11-bs cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KX158864.1 Contracaecum osculatum B sensu Nascetti et al. (1993) voucher COSB5-bs cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852350.1 Contracaecum micropapillatum isolate CMI7 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852349.1 Contracaecum rudolphii isolate CRB15 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852348.1 Contracaecum aff. multipapillatum B SM-2008 isolate CMB6 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852347.1 Contracaecum aff. multipapillatum B SM-2008 isolate CMB5 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852346.1 Contracaecum aff. multipapillatum B SM-2008 isolate CMB4 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852345.1 Contracaecum aff. multipapillatum B SM-2008 isolate CMB3 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852344.1 Contracaecum aff. multipapillatum B SM-2008 isolate CMB2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852343.1 Contracaecum aff. multipapillatum B SM-2008 isolate CMB1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852342.1 Contracaecum aff. multipapillatum A SM-2008 isolate CMA6 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852341.1 Contracaecum aff. multipapillatum A SM-2008 isolate CMA5 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852340.1 Contracaecum aff. multipapillatum A SM-2008 isolate CMA4 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852339.1 Contracaecum aff. multipapillatum A SM-2008 isolate CMA3 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852338.1 Contracaecum aff. multipapillatum A SM-2008 isolate CMA2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EU852337.1 Contracaecum aff. multipapillatum A SM-2008 isolate CMA1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF535570.1 Contracaecum rudolphii voucher DSSP-CRA1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF535569.1 Contracaecum pelagicum voucher DSSP-SM4 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF535568.1 Contracaecum pelagicum voucher DSSP-SM2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558900.1 Contracaecum bioccai voucher DSSP-CSP6 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558899.1 Contracaecum bioccai voucher DSSP-CSP5 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558898.1 Contracaecum septentrionale voucher DSSP-CS5 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558897.1 Contracaecum septentrionale voucher DSSP-CS4 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558896.1 Contracaecum rudolphii voucher DSSP-CRB1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558895.1 Contracaecum rudolphii voucher DSSP-CRB8 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558894.1 Contracaecum rudolphii voucher DSSP-CRB6 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558893.1 Contracaecum rudolphii voucher DSSP-CRB5 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558892.1 Contracaecum rudolphii voucher DSSP-CRA10 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF558891.1 Contracaecum rudolphii voucher DSSP-CRA3 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122211.1 Contracaecum osculatum from Colombia cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122210.1 Contracaecum pelagicum from Argentina cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122209.1 Contracaecum bioccai from Colombia cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122208.1 Contracaecum microcephalum from Montenegro cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122207.1 Contracaecum micropapillatum from Greece cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122206.1 Contracaecum micropapillatum from Egypt cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122205.1 Contracaecum septentrionale from Iceland cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122204.1 Contracaecum rudolphii isolate B from Italy cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122203.1 Contracaecum rudolphii isolate B from Italy cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122202.1 Contracaecum rudolphii isolate A from Italy cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+EF122201.1 Contracaecum rudolphii isolate A from Italy cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KT285811.1 Contracaecum cf. osculatum E SM-2008 voucher COSCE81 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KT285810.1 Contracaecum cf. osculatum D SM-2008 voucher COSCD60 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KT285809.1 Contracaecum cf. osculatum E SM-2008 voucher COSCE37 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KT285808.1 Contracaecum cf. osculatum D SM-2008 voucher COSCD22 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KT285807.1 Contracaecum cf. osculatum E SM-2008 voucher COSCE9 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KT285806.1 Contracaecum cf. osculatum D SM-2008 voucher COSCD13 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KT285805.1 Contracaecum cf. osculatum E SM-2008 voucher COSCE109 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KT285804.1 Contracaecum cf. osculatum D SM-2008 voucher COSCD179 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771361.1 Contracaecum cf. osculatum D SM-2008 voucher CoDTb1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771360.1 Contracaecum cf. osculatum E SM-2008 voucher CoETn4 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771359.1 Contracaecum cf. osculatum E SM-2008 voucher CoETb3 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771358.1 Contracaecum cf. osculatum D SM-2008 voucher CoDTb2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771357.1 Contracaecum cf. osculatum E SM-2008 voucher CoETn3 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771356.1 Contracaecum cf. osculatum D SM-2008 voucher CoDTn3 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771355.1 Contracaecum cf. osculatum E SM-2008 voucher CoETh2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771354.1 Contracaecum cf. osculatum D SM-2008 voucher CoDTh3 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771353.1 Contracaecum cf. osculatum E SM-2008 voucher CoECh2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KF771352.1 Contracaecum cf. osculatum D SM-2008 voucher CoDCh2 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC412229.1 Contracaecum cf. osculatum E SM-2008 voucher TnE1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC412228.1 Contracaecum cf. osculatum E SM-2008 voucher TbE1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC412227.1 Contracaecum cf. osculatum D SM-2008 voucher ThD1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC412226.1 Contracaecum cf. osculatum E SM-2008 voucher CmE1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC412225.1 Contracaecum cf. osculatum D SM-2008 voucher CmD1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC412224.1 Contracaecum cf. osculatum E SM-2008 voucher ChE1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+KC412223.1 Contracaecum cf. osculatum D SM-2008 voucher ChD1 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+JN580993.1 Contracaecum pelagicum isolate CPE14 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+JN580992.1 Contracaecum pelagicum isolate CPE11 cytochrome oxidase subunit II (COII) gene, partial cds; mitochondrial
+JF727880.1 Contracaecum bioccai voucher Bp41 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+JF727879.1 Contracaecum rudolphii F SDA-2011 voucher Bp37 cytochrome oxidase subunit II (cox2) gene, partial cds; mitochondrial
+NC_031649.1 Contracaecum ogmorhini sensu lato Pacific Canada mitochondrion, complete genome
+NC_031648.1 Contracaecum ogmorhini sensu lato South Africa mitochondrion, complete genome
+NC_031647.1 Contracaecum ogmorhini sensu lato Australia mitochondrion, complete genome
+KU558727.1 Contracaecum ogmorhini sensu lato Pacific Canada mitochondrion, complete genome
+KU558726.1 Contracaecum ogmorhini sensu lato South Africa mitochondrion, complete genome
+KU558725.1 Contracaecum ogmorhini sensu lato Australia mitochondrion, complete genome
+JN786334.1 Contracaecum osculatum A sensu Nascetti et al. (1993) isolate 27.15 mitochondrion, partial genome
+JN786333.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 25.10 mitochondrion, partial genome
+JN786332.1 Contracaecum osculatum B sensu Nascetti et al. (1993) isolate 116.1 mitochondrion, partial genome
+JN786331.1 Contracaecum osculatum A sensu Nascetti et al. (1993) isolate 27.7 mitochondrion, partial genome
+JN786330.1 Contracaecum osculatum isolate 105a mitochondrion, partial genome
+JN786329.1 Contracaecum osculatum isolate 74a mitochondrion, partial genome
+NC_024037.1 Contracaecum osculatum mitochondrion, complete genome
+KC965057.1 Contracaecum osculatum mitochondrion, complete genome
+NC_014870.1 Contracaecum rudolphii B Bullini et al., 1986 mitochondrion, complete genome
+FJ905109.1 Contracaecum rudolphii B Bullini et al., 1986 mitochondrion, complete genome
+MT304464.1 Contracaecum jorgei cytochrome oxidase subunit 2 gene, partial cds; mitochondrial
+MT304463.1 Contracaecum jorgei cytochrome oxidase subunit 2 gene, partial cds; mitochondrial
+MT304462.1 Contracaecum jorgei cytochrome oxidase subunit 2 gene, partial cds; mitochondrial
+EU477213.1 Contracaecum mirounga voucher CMIR1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+EU477212.1 Contracaecum margolisi voucher CMAR1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+EU477211.1 Contracaecum ogmorhini voucher COGM1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+EU477210.1 Contracaecum radiatum voucher CRAD1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+EU477208.1 Contracaecum osculatum baicalensis voucher CBAI1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+EU477207.1 Contracaecum cf. osculatum D SM-2008 voucher COSD1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+EU477206.1 Contracaecum osculatum voucher COSC1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+EU477205.1 Contracaecum cf. osculatum E SM-2008 voucher COSE1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+EU477204.1 Contracaecum cf. osculatum B SM-2008 voucher COSB1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+EU477203.1 Contracaecum cf. osculatum A SM-2008 voucher COSA1 cytochrome oxidase subunit II gene, partial cds; mitochondrial
+AF179910.1 Contracaecum multipapillatum cytochrome oxidase subunit 2 (cox-2) gene, partial cds; mitochondrial gene for mitochondrial product

@@ -1,0 +1,15 @@
+EF180082.1 Anisakis pegreffi 18S small subunit ribosomal RNA gene, partial sequence
+EF180080.1 Sulcascaris sulcata 18S small subunit ribosomal RNA gene, partial sequence
+EF180072.1 Contracaecum eudyptulae 18S small subunit ribosomal RNA gene, partial sequence
+KP726278.1 Raphidascaroides moraveci isolate BRMS4 18S ribosomal RNA gene, partial sequence
+KP726276.1 Raphidascaroides brasiliensis isolate PAX14 18S ribosomal RNA gene, partial sequence
+AB189983.1 Contracaecum spiculigerum gene for 18S ribosomal RNA, partial sequence
+MF072711.1 Anisakis simplex isolate S455-2 18S ribosomal RNA gene, partial sequence
+MF072710.1 Raphidascaroides nipponensis isolate Rn2 18S ribosomal RNA gene, partial sequence
+MF072707.1 Pseudanisakis rajae isolate P1 18S ribosomal RNA gene, partial sequence
+MF072697.1 Anisakis pegreffii isolate A1 18S ribosomal RNA gene, partial sequence
+AY702702.1 Contracaecum microcephalum 18S ribosomal RNA gene, partial sequence
+U94381.1 Terranova caballeroi 18S small subunit ribosomal RNA gene, partial sequence
+U94380.1 Pseudoterranova decipiens 18S small subunit ribosomal RNA gene, partial sequence
+U94370.1 Contracaecum multipapillatum 18S small subunit ribosomal RNA gene, partial sequence
+KX859077.1 Raphidascaris lanfrediae isolate AMP11 18S ribosomal RNA gene, partial sequence
