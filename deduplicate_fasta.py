@@ -1,8 +1,9 @@
+#!/usr/bin/env python
+
 from __future__ import print_function
 import sys
 import argparse
 import time
-import re
 from Bio import SeqIO
 from Bio.Seq import reverse_complement
 
@@ -12,8 +13,8 @@ from Bio.Seq import reverse_complement
 
 def parsing_fasta(input_file):
     # read fasta entries and sequences
-    entries, sequences = [], []
     records = SeqIO.parse(input_file, 'fasta')
+    entries, sequences = [], []
     for record in records:
         entries += ['>%s' % str(record.description)]
         sequences += ['%s' % str(record.seq).replace('-', '')]
@@ -46,10 +47,10 @@ def write_out(output_file, starting_entries, starting_sequences, curated_sequenc
 # to generate one k-mer
 
 
-def kmer_gen(sequence, k, start=0):
+def kmer_gen(sequence, k=30, start=0):
     # sequence is a fasta sequence
     # k is the length of kmer
-    # start is the position to start generating, which is 0
+    # start is the position to start generating kmer, default is 0
     kmer = sequence[start:(start + k + 1)]
     return kmer
 
@@ -62,14 +63,16 @@ def cleanup(_list):
         _list.remove('')
     return _list
 
+# dereplication: longest approach
+
 
 def derep_longest(input_file, sequence_type='n'):
     starting_entries, starting_sequences = parsing_fasta(input_file)
-    if len(starting_entries) < 1:
-        sys.exit('\n\nInvalid input file\n\n')
+    if len(starting_entries) == 0:  # no entry parsed
+        sys.exit('\n\nInvalid input file.\n\n')
 
-    editing = list(set(starting_sequences))
-    editing.sort(key=len)
+    editing = list(set(starting_sequences))  # set() to remove replicates
+    editing.sort(key=len)                   # sort() based on sequence length
 
     for i in range((len(editing) - 1)):
         if len(editing[i]) >= minimum:
@@ -82,10 +85,10 @@ def derep_longest(input_file, sequence_type='n'):
                         break
                 elif sequence_type == 'n' and reverse_complement(kmer) in seq:
                     if reverse_complement(comparing) in seq:
-                        editing = ''
+                        editing[i] = ''
                         break
         else:
-            editing = ''
+            editing[i] = ''
     editing = cleanup(editing)
     write_out(output_file, starting_entries, starting_sequences, editing)
 
