@@ -1,8 +1,8 @@
 library(tidyverse)
-library(msa)
+# library(msa)
 library(ape)
 library(seqinr)
-library(ggtree)
+library(ggtree) # install through devtools::install_github("YuLab-SMU/ggtree")
 
 
 # read in fasta file
@@ -67,7 +67,7 @@ plot(phylotree, type="cladogram")
 
 # perform MSA using ClustalW CLI
 # import alignment (in phylip format)
-alignment <- read.alignment(file="derep_fasta/derep_anisakidae_coi5p.phy", format="phylip")
+# alignment <- read.alignment(file="derep_fasta/derep_anisakidae_coi5p.phy", format="phylip")
 # import alignment (in clustal format)
 alignment <- read.alignment(file="derep_fasta/derep_anisakidae_coi5p.aln", format="clustal")
 # calculate distance matrix for MSA
