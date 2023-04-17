@@ -417,6 +417,70 @@ p %<+% tipLabelDf +
         ggexpand(ratio=0.2, side="h")
 ```
 
+### Dereplicate anisakidae ITS
+```{r ITS_aln, warning=false, fig.width=10, fig.height=40}
+# read in fasta file
+fcontent <- readLines("derep_fasta/derep_anisakidae_its.fasta")
+
+seqStart <- grep(">", fcontent)
+seqEnd <- seqStart - 1
+seqEnd <- seqEnd[-1]
+seqEnd <- c(seqEnd, length(fcontent))
+
+mSeqPos <- cbind(seqStart, seqEnd)
+rownames(mSeqPos) <- fcontent[seqStart]
+mSeqPos[, 1] <- mSeqPos[, 1] + 1
+mSeqPos <- cbind(mSeqPos, sequence=NA)
+
+for (i in 1:nrow(mSeqPos)){
+        sequ <- ""
+        for (j in mSeqPos[i, "seqStart"]:mSeqPos[i, "seqEnd"]){
+                sequ <- paste0(sequ, fcontent[j])
+        }
+        mSeqPos[i, "sequence"] <- sequ
+}
+
+seqDb <- mSeqPos %>% 
+        as.data.frame() %>% 
+        rownames_to_column('id') %>% 
+        #filter(grepl('Anisakis|Pseudoterranova|Phocascaris|Contracaecum', id)) %>%
+        mutate(id=gsub('cf. ', '', id)) %>%
+        mutate(id=gsub('aff. ', '', id)) %>% 
+        mutate(tmp=paste(gsub('>', '', word(id, 1)), word(id, 2), word(id, 3))) %>%
+        mutate(id=gsub('>', '', word(tmp, 1))) %>% 
+        mutate(genus=word(tmp, 2)) %>% 
+        mutate(species=paste(word(tmp, 2), word(tmp,3))) %>%
+        select(id, genus, species, sequence)
+
+# perform MSA using ClustalW CLI: ./run_clustalw.sh derep_fasta.fa
+# import alignment (in clustal format)
+alignment <- read.alignment(file="derep_fasta/derep_anisakidae_its.aln", format="clustal")
+# calculate distance matrix for MSA
+distMatrix <- dist.alignment(alignment, "similarity")
+# Construct a phylo tree using neighbor joining algorithm
+mytree <- nj(distMatrix) %>% 
+        phytools::midpoint.root()
+
+tipLabelDf <- data.frame(mytree$tip.label)
+colnames(tipLabelDf) <- "id"
+
+tipLabelDf <- full_join(tipLabelDf, seqDb, by="id") %>% 
+        mutate(id=paste(id, species))
+rownames(tipLabelDf) <- tipLabelDf[["id"]]
+
+mytree$tip.label <- tipLabelDf[["id"]]
+
+p <- ggtree(mytree, options(ignore.negative.edge=TRUE)) #+
+        # geom_tiplab(size=2.5) +
+        # ggexpand(ratio=0.5, side="h")
+
+p %<+% tipLabelDf +
+        geom_tiplab(size=2.5) +
+        theme_tree() +
+        geom_tippoint(aes(color=genus), size=2) +
+        ggexpand(ratio=0.2, side="h")
+```
+
 ### Session information
 ```{r session_info, echo=false}
 getS3method("print","sessionInfo")(sessionInfo()[-8])
