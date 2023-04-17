@@ -1,0 +1,290 @@
+---
+title: "multiple_sequence_alignment"
+author: "kaehwan"
+date: "4/13/2023"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+true=TRUE
+false=FALSE
+```
+
+### Load libraries
+```{r libraries, message=false, echo=true, warning=false}
+library(msa)
+library(ape)
+library(seqinr)
+library(ggtree)
+library(tidyverse)
+```
+
+### List all dereplicate fasta files
+```{r}
+directory <- "./dedup_fasta"
+files <- list.files(path=directory, pattern=".fasta")
+
+for (i in files){
+        print(paste0(directory, "/", i))
+}
+```
+
+### Dereplicate anisakidae 18S
+```{r import_derep_its, warning=false, eval=true, message=false}
+
+# read in fasta file
+fcontent <- readLines("dedup_fasta/derep_anisakidae_18s.fasta")
+
+seqStart <- grep(">", fcontent)
+seqEnd <- seqStart - 1
+seqEnd <- seqEnd[-1]
+seqEnd <- c(seqEnd, length(fcontent))
+
+mSeqPos <- cbind(seqStart, seqEnd)
+rownames(mSeqPos) <- fcontent[seqStart]
+mSeqPos[, 1] <- mSeqPos[, 1] + 1
+mSeqPos <- cbind(mSeqPos, sequence=NA)
+
+for (i in 1:nrow(mSeqPos)){
+        sequ <- ""
+        for (j in mSeqPos[i, "seqStart"]:mSeqPos[i, "seqEnd"]){
+                sequ <- paste0(sequ, fcontent[j])
+        }
+        mSeqPos[i, "sequence"] <- sequ
+}
+```
+
+```{r tidy_up_seqDb, eval=true, message=false}
+
+seqDb <- mSeqPos %>% 
+        as.data.frame() %>% 
+        rownames_to_column('id') %>% 
+        filter(grepl('Anisakis|Pseudoterranova|Phocascaris|Contracaecum', id)) %>%
+        mutate(id=gsub('cf. ', '', id)) %>%
+        mutate(id=gsub('aff. ', '', id)) %>% 
+        mutate(id=paste(gsub('>', '', word(id, 1)), word(id, 2), word(id, 3))) %>% 
+        mutate(genus=word(id, 2)) %>% 
+        mutate(species=paste(word(id, 2), word(id,3))) %>%
+        select(id, genus, species, sequence) %>% 
+        column_to_rownames('id')
+```
+
+```{r plot_tree, eval=true, message=false, fig.height=20}
+
+# Step 1: take the DNA sequence
+DNASEQ <- seqDb[, 'sequence']
+names(DNASEQ) <- rownames(seqDb)
+# Step 2: convert to DNAStringSet
+DNASS <- DNAStringSet(DNASEQ)
+# or directly read in fasta using readDNAStringSet
+# DNASS <- readDNAStringSet("fasta/subseq_anisakidae_18s.fasta")
+# DNASS <- readDNAStringSet("fasta/subseq_anisakidae_coi5p.fasta")
+# DNASS <- readDNAStringSet("dedup_fasta/derep_anisakidae_its.fasta")
+
+# Step 3: multiple sequence alignment
+alignment <- msa(DNASS, 'ClustalOmega')
+# Step 4: clustering and distances
+alignment <- msaConvert(alignment, "seqinr::alignment")
+distMatrix <- dist.alignment(alignment, 'similarity')
+clustering <- hclust(distMatrix)
+# Step 5: APE to make cladogram
+phylotree <- as.phylo(clustering)
+# plot(phylotree, type="cladogram")
+
+ggtree(phylotree) +
+        geom_tiplab(size=2.5) +
+        ggexpand(ratio=1.2, side='h')
+```
+
+### Dereplicate anisakidae COX1
+```{r}
+
+# read in fasta file
+fcontent <- readLines("dedup_fasta/derep_anisakidae_coi5p.fasta")
+
+seqStart <- grep(">", fcontent)
+seqEnd <- seqStart - 1
+seqEnd <- seqEnd[-1]
+seqEnd <- c(seqEnd, length(fcontent))
+
+mSeqPos <- cbind(seqStart, seqEnd)
+rownames(mSeqPos) <- fcontent[seqStart]
+mSeqPos[, 1] <- mSeqPos[, 1] + 1
+mSeqPos <- cbind(mSeqPos, sequence=NA)
+
+for (i in 1:nrow(mSeqPos)){
+        sequ <- ""
+        for (j in mSeqPos[i, "seqStart"]:mSeqPos[i, "seqEnd"]){
+                sequ <- paste0(sequ, fcontent[j])
+        }
+        mSeqPos[i, "sequence"] <- sequ
+}
+
+seqDb <- mSeqPos %>% 
+        as.data.frame() %>% 
+        rownames_to_column('id') %>% 
+        filter(grepl('Anisakis|Pseudoterranova|Phocascaris|Contracaecum', id)) %>%
+        mutate(id=gsub('cf. ', '', id)) %>%
+        mutate(id=gsub('aff. ', '', id)) %>% 
+        mutate(id=paste(gsub('>', '', word(id, 1)), word(id, 2), word(id, 3))) %>% 
+        mutate(genus=word(id, 2)) %>% 
+        mutate(species=paste(word(id, 2), word(id,3))) %>%
+        select(id, genus, species, sequence) %>% 
+        column_to_rownames('id')
+
+# Step 1: take the DNA sequence
+DNASEQ <- seqDb[, 'sequence']
+names(DNASEQ) <- rownames(seqDb)
+# Step 2: convert to DNAStringSet
+DNASS <- DNAStringSet(DNASEQ)
+# or directly read in fasta using readDNAStringSet
+# DNASS <- readDNAStringSet("fasta/subseq_anisakidae_18s.fasta")
+# DNASS <- readDNAStringSet("fasta/subseq_anisakidae_coi5p.fasta")
+# DNASS <- readDNAStringSet("dedup_fasta/derep_anisakidae_its.fasta")
+
+# Step 3: multiple sequence alignment
+alignment <- msa(DNASS, 'ClustalOmega')
+# Step 4: clustering and distances
+alignment <- msaConvert(alignment, "seqinr::alignment")
+distMatrix <- dist.alignment(alignment, 'similarity')
+clustering <- hclust(distMatrix)
+# Step 5: APE to make cladogram
+phylotree <- as.phylo(clustering)
+# plot(phylotree, type="cladogram")
+
+ggtree(phylotree) +
+        geom_tiplab(size=2.5) +
+        ggexpand(ratio=1.2, side='h')
+
+```
+
+### Dereplicate anisakidae COX2
+```{r}
+
+# read in fasta file
+fcontent <- readLines("dedup_fasta/derep_anisakidae_coii.fasta")
+
+seqStart <- grep(">", fcontent)
+seqEnd <- seqStart - 1
+seqEnd <- seqEnd[-1]
+seqEnd <- c(seqEnd, length(fcontent))
+
+mSeqPos <- cbind(seqStart, seqEnd)
+rownames(mSeqPos) <- fcontent[seqStart]
+mSeqPos[, 1] <- mSeqPos[, 1] + 1
+mSeqPos <- cbind(mSeqPos, sequence=NA)
+
+for (i in 1:nrow(mSeqPos)){
+        sequ <- ""
+        for (j in mSeqPos[i, "seqStart"]:mSeqPos[i, "seqEnd"]){
+                sequ <- paste0(sequ, fcontent[j])
+        }
+        mSeqPos[i, "sequence"] <- sequ
+}
+
+seqDb <- mSeqPos %>% 
+        as.data.frame() %>% 
+        rownames_to_column('id') %>% 
+        filter(grepl('Anisakis|Pseudoterranova|Phocascaris|Contracaecum', id)) %>%
+        mutate(id=gsub('cf. ', '', id)) %>%
+        mutate(id=gsub('aff. ', '', id)) %>% 
+        mutate(id=paste(gsub('>', '', word(id, 1)), word(id, 2), word(id, 3))) %>% 
+        mutate(genus=word(id, 2)) %>% 
+        mutate(species=paste(word(id, 2), word(id,3))) %>%
+        select(id, genus, species, sequence) %>% 
+        column_to_rownames('id')
+
+# Step 1: take the DNA sequence
+DNASEQ <- seqDb[, 'sequence']
+names(DNASEQ) <- rownames(seqDb)
+# Step 2: convert to DNAStringSet
+DNASS <- DNAStringSet(DNASEQ)
+# or directly read in fasta using readDNAStringSet
+# DNASS <- readDNAStringSet("fasta/subseq_anisakidae_18s.fasta")
+# DNASS <- readDNAStringSet("fasta/subseq_anisakidae_coi5p.fasta")
+# DNASS <- readDNAStringSet("dedup_fasta/derep_anisakidae_its.fasta")
+
+# Step 3: multiple sequence alignment
+alignment <- msa(DNASS, 'ClustalOmega')
+# Step 4: clustering and distances
+alignment <- msaConvert(alignment, "seqinr::alignment")
+distMatrix <- dist.alignment(alignment, 'similarity')
+clustering <- hclust(distMatrix)
+# Step 5: APE to make cladogram
+phylotree <- as.phylo(clustering)
+# plot(phylotree, type="cladogram")
+
+ggtree(phylotree) +
+        geom_tiplab(size=2.5) +
+        ggexpand(ratio=1.2, side='h')
+
+```
+
+### Dereplicate anisakidae ITS
+```{r}
+
+# read in fasta file
+fcontent <- readLines("dedup_fasta/derep_anisakidae_its.fasta")
+
+seqStart <- grep(">", fcontent)
+seqEnd <- seqStart - 1
+seqEnd <- seqEnd[-1]
+seqEnd <- c(seqEnd, length(fcontent))
+
+mSeqPos <- cbind(seqStart, seqEnd)
+rownames(mSeqPos) <- fcontent[seqStart]
+mSeqPos[, 1] <- mSeqPos[, 1] + 1
+mSeqPos <- cbind(mSeqPos, sequence=NA)
+
+for (i in 1:nrow(mSeqPos)){
+        sequ <- ""
+        for (j in mSeqPos[i, "seqStart"]:mSeqPos[i, "seqEnd"]){
+                sequ <- paste0(sequ, fcontent[j])
+        }
+        mSeqPos[i, "sequence"] <- sequ
+}
+
+seqDb <- mSeqPos %>% 
+        as.data.frame() %>% 
+        rownames_to_column('id') %>% 
+        filter(grepl('Anisakis|Pseudoterranova|Phocascaris|Contracaecum', id)) %>%
+        mutate(id=gsub('cf. ', '', id)) %>%
+        mutate(id=gsub('aff. ', '', id)) %>% 
+        mutate(id=paste(gsub('>', '', word(id, 1)), word(id, 2), word(id, 3))) %>% 
+        mutate(genus=word(id, 2)) %>% 
+        mutate(species=paste(word(id, 2), word(id,3))) %>%
+        select(id, genus, species, sequence) %>% 
+        column_to_rownames('id')
+
+# Step 1: take the DNA sequence
+DNASEQ <- seqDb[, 'sequence']
+names(DNASEQ) <- rownames(seqDb)
+# Step 2: convert to DNAStringSet
+DNASS <- DNAStringSet(DNASEQ)
+# or directly read in fasta using readDNAStringSet
+# DNASS <- readDNAStringSet("fasta/subseq_anisakidae_18s.fasta")
+# DNASS <- readDNAStringSet("fasta/subseq_anisakidae_coi5p.fasta")
+# DNASS <- readDNAStringSet("dedup_fasta/derep_anisakidae_its.fasta")
+
+# Step 3: multiple sequence alignment
+alignment <- msa(DNASS, 'ClustalOmega')
+# Step 4: clustering and distances
+alignment <- msaConvert(alignment, "seqinr::alignment")
+distMatrix <- dist.alignment(alignment, 'similarity')
+clustering <- hclust(distMatrix)
+# Step 5: APE to make cladogram
+phylotree <- as.phylo(clustering)
+# plot(phylotree, type="cladogram")
+
+ggtree(phylotree) +
+        geom_tiplab(size=2.5) +
+        ggexpand(ratio=1.2, side='h')
+
+```
+
+### Session information
+```{r session_info}
+sessionInfo()
+```
+

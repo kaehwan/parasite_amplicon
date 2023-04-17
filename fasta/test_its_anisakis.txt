@@ -973,12 +973,6 @@ KC663443.1 Anisakis simplex isolate 0DWP1 internal transcribed spacer 1, partial
 KC663442.1 Anisakis simplex isolate 0DWP0 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
 KC663441.1 Anisakis simplex isolate 0DWOZ internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
 JQ900763.1 Anisakis pegreffii strain HUC1 internal transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
-KC121371.1 Anisakis sp. SAN-2004 isolate AspSAN2004_Bar_Sala_19.3 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
-KC121370.1 Anisakis sp. HC-2005 isolate AspHC2005_Ind_Lsav_62.1 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
-KC121369.1 Anisakis sp. TK-2013 isolate Aindet_NSG_Char_40.8 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
-KC121368.1 Anisakis sp. TK-2013 isolate Aindet_NSG_Char_39.5 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
-KC121367.1 Anisakis sp. TK-2013 isolate Aindet_BSBB_Mpou_79.8 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
-KC121366.1 Anisakis sp. TK-2013 isolate Aindet_BalRu_Char_121.1 internal transcribed spacer 1 and 5.8S ribosomal RNA gene, complete sequence; and internal transcribed spacer 2, partial sequence
 JQ934877.1 Anisakis simplex strain ASC3 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
 JQ934876.1 Anisakis simplex strain ASC2 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence
 JQ934875.1 Anisakis simplex strain ASC1 internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene, partial sequence

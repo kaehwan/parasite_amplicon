@@ -99,7 +99,7 @@ ggsave('subseq_anisakidae_18s_pairwise.svg', width=10, height=10)
 
 
 # read in fasta file
-fcontent <- readLines("fasta/subseq_anisakidae_coi5p.fasta")
+fcontent <- readLines("fasta/subseq_anisakidae_coi.fasta")
 
 seqStart <- grep('>', fcontent)
 seqEnd <- seqStart - 1

@@ -1,10 +1,12 @@
+library(tidyverse)
 library(msa)
 library(ape)
 library(seqinr)
-library(tidyverse)
+library(ggtree)
+
 
 # read in fasta file
-fcontent <- readLines("fasta/subseq_anisakidae_coi5p.fasta")
+fcontent <- readLines("fasta/subseq_anisakidae_its.fasta")
 
 seqStart <- grep('>', fcontent)
 seqEnd <- seqStart - 1
@@ -45,17 +47,34 @@ DNASS <- DNAStringSet(DNASEQ)
 # DNASS <- readDNAStringSet("fasta/subseq_anisakidae_coi5p.fasta")
 
 # Step 3: multiple sequence alignment
-alignment <- msa(DNASS, 'ClustalOmega')
+alignment <- msa(DNASS, 'ClustalW')
 # Step 4: clustering and distances
 alignment <- msaConvert(alignment, "seqinr::alignment")
 distMatrix <- dist.alignment(alignment, 'similarity')
-clustering <- hclust(distMatrix)
-# Step 5: APE to make cladogram
-phylotree <- as.phylo(clustering)
-# plot(phylotree, type="cladogram")
-
-ggtree(phylotree) +
+# Step 5: Construct a phylo tree using neighbor joining algorithm
+mytree <- nj(distMatrix)
+ggtree(mytree, options(ignore.negative.edge=TRUE)) +
         geom_tiplab(size=2.8) +
-        ggexpand(ratio=1.2, side='h')
+        ggexpand(ratio=0.5, side="h")
+# Step 5 (alternate): hierarchical clustering based on distance matrix
+clustering <- hclust(distMatrix)
+# ape to make cladogram
+phylotree <- as.phylo(clustering)
+plot(phylotree, type="cladogram")
 
+
+# Or read in clustalw .phy alignment and plot tree ---------------------------
+
+# perform MSA using ClustalW CLI
+# import alignment (in phylip format)
+alignment <- read.alignment(file="derep_fasta/derep_anisakidae_coi5p.phy", format="phylip")
+# import alignment (in clustal format)
+alignment <- read.alignment(file="derep_fasta/derep_anisakidae_coi5p.aln", format="clustal")
+# calculate distance matrix for MSA
+distMatrix <- dist.alignment(alignment, "similarity")
+# Construct a phylo tree using neighbor joining algorithm
+mytree <- nj(distMatrix)
+ggtree(mytree, options(ignore.negative.edge=TRUE)) +
+        geom_tiplab(size=2.5) +
+        ggexpand(ratio=0.5, side="h")
 
