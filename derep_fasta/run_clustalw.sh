@@ -23,7 +23,7 @@ clustalw \
 	-transweight=0.50 \
 	-output=clustal \
 	-outorder=aligned \
-	-iteration=alignment
+	-iteration=none
 
 echo "DONE MSA-ing"
 
